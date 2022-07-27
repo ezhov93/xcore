@@ -1,0 +1,26 @@
+---
+:source:
+  :path: test
+  :file: test_waitcounter.c
+:successes:
+- :test: test_TestWaitCounter_EmptyTake_
+  :line: 9
+  :message: ''
+  :unity_test_time: 0
+- :test: test_TestWaitCounter_Counter_
+  :line: 15
+  :message: ''
+  :unity_test_time: 0
+- :test: test_TestWaitCounter_Delay_
+  :line: 26
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 3
+  :passed: 3
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.004320900000493566

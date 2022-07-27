@@ -1,0 +1,10 @@
+---
+src/circularbuffer.c:
+- TEST
+- USE_CEEDLING
+src/softtimer.c:
+- TEST
+- USE_CEEDLING
+src/waitcounter.c:
+- TEST
+- USE_CEEDLING

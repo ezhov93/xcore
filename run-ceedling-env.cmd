@@ -1,0 +1,1 @@
+ docker run -it --rm -v %cd%:/project throwtheswitch/madsciencelab
